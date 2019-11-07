@@ -1,0 +1,13 @@
+{
+    "name": "alex/youtube_views",
+    "authors": [
+        {
+            "name": "alex-w-dev",
+            "email": "yampi.ru@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.3.0",
+        "slim/psr7": "^0.6.0"
+    }
+}
