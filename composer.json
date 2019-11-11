@@ -8,6 +8,9 @@
     ],
     "require": {
         "slim/slim": "4.3.0",
-        "slim/psr7": "^0.6.0"
+        "slim/psr7": "^0.6.0",
+        "google/apiclient": "2.0",
+        "ext-curl": "*",
+        "ext-json": "*"
     }
 }
